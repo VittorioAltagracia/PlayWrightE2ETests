@@ -4,3 +4,4 @@ node_modules/
 /playwright/.cache/
 /tests-examples
 example.spec.ts
+fixtures.ts
